@@ -1,0 +1,11 @@
+.content {
+  width: 700px;
+}
+
+.action-button {
+  width: 100px;
+}
+
+.action {
+  cursor: pointer;
+}
