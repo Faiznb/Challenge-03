@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite (Yarn) Faiz Nur Budi
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
